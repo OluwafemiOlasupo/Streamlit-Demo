@@ -1,2 +1,2 @@
 # Streamlit-Demo
-Custom Built Streamlit Apps by Me
+Custom-built Streamlit Apps by Me
